@@ -1,0 +1,36 @@
+
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial sans-serif;
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+h1{
+    color: goldenrod;
+}
+
+#message-el{
+    font-style: italic;
+}
+
+.startbtn {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.newcard{
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+    cursor: pointer;
+}
